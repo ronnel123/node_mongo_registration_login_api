@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://ronnel:fullname@ronnel0.1epau.mongodb.net/ronnel-node-api?retryWrites=true&w=majority",
+    "secret": "s3kr3t0"
+}
